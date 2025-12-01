@@ -1,0 +1,7 @@
+{
+  "name": "Life Museum",
+  "description": "A digital legacy application to curate your life's story with the help of AI, featuring a timeline, a guestbook for family, and an automated biography writer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
